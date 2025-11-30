@@ -6,6 +6,8 @@
 npm install
 ```
 
+2. Run the program:
+
 ```bash
 npm start
 ```
